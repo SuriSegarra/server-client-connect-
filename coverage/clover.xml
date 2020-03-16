@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1584395483675" clover="3.2.0">
+  <project timestamp="1584395483675" name="All files">
+    <metrics statements="3" coveredstatements="3" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="1" elements="7" coveredelements="4" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
+    <file name="createResponse.js" path="/Users/surelissegarra/alchemy/career-track/server-client-connect-/utils/createResponse.js">
+      <metrics statements="3" coveredstatements="3" conditionals="3" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="0" falsecount="3"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

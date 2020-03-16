@@ -1,0 +1,28 @@
+{
+  "name": "server-client-connect-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "test:watch": "npm run test -- --watch",
+    "lint": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuriSegarra/server-client-connect-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuriSegarra/server-client-connect-/issues"
+  },
+  "homepage": "https://github.com/SuriSegarra/server-client-connect-#readme",
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "eslint": "^6.8.0",
+    "jest": "^25.1.0",
+    "supertest": "^4.0.2"
+  }
+}
