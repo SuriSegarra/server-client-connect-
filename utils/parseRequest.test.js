@@ -1,4 +1,4 @@
-const parseRequest = require('./parsedRequest.js');
+const parseRequest = require('./parseRequest.js');
 
 describe('parseRequest', () => {
   it('parse a raw request', () => {
