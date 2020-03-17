@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --verbose --coverage",
     "test:watch": "npm run test -- --watch",
-    "lint": "eslint '**/*.js'"
+    "start:watch": "nodemon"
   },
   "repository": {
     "type": "git",
