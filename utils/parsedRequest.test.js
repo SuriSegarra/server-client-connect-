@@ -1,6 +1,6 @@
 const parseRequest = require('./parsedRequest.js');
 
-describe('parseRequesr', () => {
+describe('parseRequest', () => {
   it('parse a raw request', () => {
     const rawRequest = `GET / HTTP/1.1
         Host: developer.mozilla.org
